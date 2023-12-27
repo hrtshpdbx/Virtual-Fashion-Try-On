@@ -16,7 +16,7 @@ Used CatBoost to train the Airline Passenger Satisfaction dataset
 Datset: https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction?select=train.csv
 
 # Task2
-Used Pytorch to train the Airline Passenger Satisfaction dataset
+Used Pytorch to train the Airline Passenger Satisfaction dataset and predict passenger satisfaction
 
 # Task3
-Build a model using PyTorch training the Fashion MNIST dataset
+Built a model using PyTorch training the Fashion MNIST dataset
