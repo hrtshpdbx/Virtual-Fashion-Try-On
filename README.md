@@ -3,8 +3,11 @@
 # Members
 
 Raajan Wankhede
+
 Smruthi Bhat
+
 Aakarsh Bansal
+
 Hayden Soares
 
 # Aim
@@ -13,6 +16,7 @@ The objective of this project is to develop a robust and user-friendly clothing 
 
 # Task1
 Used CatBoost to train the Airline Passenger Satisfaction dataset and predict passenger satisfaction. 
+
 Datset: https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction?select=train.csv
 
 # Task2
