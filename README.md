@@ -24,3 +24,9 @@ Used Pytorch to train the Airline Passenger Satisfaction dataset and predict pas
 
 # Task3
 Built a model using PyTorch training the Fashion MNIST dataset
+
+# Task4
+Image segmentation using PAN (Pyramid Attention Network) with ResNet50 and transfer learning on the clothing co-parsing dataset
+
+Dataset: https://www.kaggle.com/datasets/balraj98/clothing-coparsing-dataset/download?datasetVersionNumber=1
+
