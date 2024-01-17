@@ -31,3 +31,6 @@ Dataset: https://www.kaggle.com/datasets/zalando-research/fashionmnist
 Image segmentation using PAN (Pyramid Attention Network) with ResNet50 and transfer learning on the clothing co-parsing dataset
 
 Dataset: https://www.kaggle.com/datasets/balraj98/clothing-coparsing-dataset/data
+
+# Task5
+Image generation using GAN (Generative Adversarial Network) with ResNet50 and transfer learning to generate the Fashion MNIST dataset
